@@ -1,0 +1,14 @@
+# Compiled output
+out/
+*.class
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+.settings/
+bin/
+
+# OS
+Thumbs.db
+Desktop.ini
